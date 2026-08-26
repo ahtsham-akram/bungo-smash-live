@@ -1,6 +1,6 @@
 # Bungo Website — Replacement Build
 
-A responsive 4-page static website for the Bungo smash-burger brand, built with plain HTML, CSS and JavaScript so it is easy to edit in VS Code.
+A responsive 4-page static website for the Bungo smash-burger brand, built with plain HTML, CSS and JavaScript
 
 ## Pages
 - `index.html` — homepage
