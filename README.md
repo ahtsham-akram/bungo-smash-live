@@ -1,6 +1,6 @@
 # Bungo Website 
 
-A responsive 4-page static website for the Bungo smash-burger brand, built with plain HTML, CSS and JavaScript
+A responsive 4-page static website for the Bungo-smash burger brand, built with plain HTML, CSS and JavaScript
 
 ## Pages
 - `index.html` — homepage
